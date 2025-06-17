@@ -1,0 +1,6 @@
+name: Planet4Generator
+main: genner.Main
+version: 1.2
+description: A plugin which aims to recreate the infamous Planet-4 from Alien covenant!
+api-version: 1.16
+load: startup
