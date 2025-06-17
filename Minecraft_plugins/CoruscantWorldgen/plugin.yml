@@ -1,0 +1,6 @@
+name: CoruscantGenerator
+main: genner.Main
+version: 1.0
+description: A plugin which aims to recreate the planet Coruscant from Star Wars!
+api-version: 1.16
+load: startup
