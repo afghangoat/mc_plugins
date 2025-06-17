@@ -1,0 +1,6 @@
+main: me.MarioPlayer.MKWG.Main
+name: ISISworldgen
+version: 1.3.2
+description: World Generator!
+api-version: 1.16
+load: startup
