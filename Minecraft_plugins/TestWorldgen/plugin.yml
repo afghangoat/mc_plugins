@@ -1,0 +1,6 @@
+main: me.MarioPlayer.HelloWorld.Main
+name: ISISworldgen
+version: 1.2
+description: DesertLand Generator!
+api-version: 1.16
+load: startup
